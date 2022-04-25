@@ -1,5 +1,13 @@
 ---
-title: "My Website"
+title: "My cats have a website!"
 ---
-    
-Hello, Website! Welcome to the world.
+
+This is John.
+
+<img src="files/john.jpg" style="width:50%">
+
+This is Pete.
+
+<img src="files/pete.jpg" style="width:50%">
+
+They are brothers!
